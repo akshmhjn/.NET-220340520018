@@ -1,0 +1,7 @@
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\bin\Debug\BasicClassConcepts.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\obj\Debug\BasicClassConcepts.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_1\BasicClassConcepts\obj\Debug\BasicClassConcepts.pdb
