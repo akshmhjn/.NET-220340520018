@@ -1,0 +1,7 @@
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_9\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
