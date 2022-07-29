@@ -1,0 +1,7 @@
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\bin\Debug\aaa.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\bin\Debug\aaa.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\bin\Debug\aaa.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\obj\Debug\aaa.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\obj\Debug\aaa.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\aaa\obj\Debug\aaa.pdb

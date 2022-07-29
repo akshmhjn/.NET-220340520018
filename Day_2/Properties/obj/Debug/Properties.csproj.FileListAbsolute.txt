@@ -1,0 +1,7 @@
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\bin\Debug\Properties.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\bin\Debug\Properties.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\bin\Debug\Properties.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\obj\Debug\Properties.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\Properties\obj\Debug\Properties.pdb

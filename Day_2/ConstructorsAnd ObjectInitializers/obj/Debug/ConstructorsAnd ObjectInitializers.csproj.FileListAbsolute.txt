@@ -1,0 +1,7 @@
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\bin\Debug\ConstructorsAnd ObjectInitializers.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\bin\Debug\ConstructorsAnd ObjectInitializers.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\bin\Debug\ConstructorsAnd ObjectInitializers.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\obj\Debug\ConstructorsAnd ObjectInitializers.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\obj\Debug\ConstructorsAnd ObjectInitializers.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\obj\Debug\ConstructorsAnd ObjectInitializers.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_2\ConstructorsAnd ObjectInitializers\obj\Debug\ConstructorsAnd ObjectInitializers.pdb
