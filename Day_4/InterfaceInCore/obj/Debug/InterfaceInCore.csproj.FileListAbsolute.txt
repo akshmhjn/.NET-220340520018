@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\bin\Debug\InterfaceInCore.exe.config
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\bin\Debug\InterfaceInCore.exe
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\bin\Debug\InterfaceInCore.pdb
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\obj\Debug\InterfaceInCore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\obj\Debug\InterfaceInCore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\obj\Debug\InterfaceInCore.exe
+C:\Users\hp\source\repos\Day_4\InterfaceInCore\obj\Debug\InterfaceInCore.pdb

@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe.config
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.pdb
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.exe
+C:\Users\hp\source\repos\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe.config
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\bin\Debug\RefAndValueTypes.pdb
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.csproj.AssemblyReference.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.csproj.CoreCompileInputs.cache
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.exe
+D:\CDAC22 Class\Classwork Task\.NET\Day_4\RefAndValueTypes\obj\Debug\RefAndValueTypes.pdb
